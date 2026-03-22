@@ -1,6 +1,9 @@
-sentence-transformers
 pdfplumber
-scikit-learn
-numpy
+regex
+numpy==1.26.4
+torch==2.4.0
+transformers==4.41.2
+sentence-transformers==3.0.1
+accelerate==0.30.1
 pandas
-torch
+scikit-learn
